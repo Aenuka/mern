@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Welcome to Mern</h1>
-        <button className="users-btn">Users</button>
+        <button className="users-btn">Users HI</button>
       </header>
     </div>
   );
